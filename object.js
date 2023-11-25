@@ -38,7 +38,6 @@ const data = [
     {   
         name : "Mercedes G500" ,
         year: "2023" ,
-        weight: "13-16 kg" ,
         colour : "White" , 
         price: "150000$" ,
         img : "https://vehicle-images.dealerinspire.com/stock-images/chrome/8c1755b11109fe2d76d32528140be869.png"
